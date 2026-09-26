@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there! 👋 I'm Pelin
 
-<!--
-**pelinbalcii/pelinbalcii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Engineering Student** at Dokuz Eylül University | Passionate about Software Architecture & Data Structures
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I am a software engineering student focused on building efficient, scalable, and well-structured applications. I enjoy tackling complex problems involving low-level memory management in C and high-level enterprise architectures in Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Quick Facts
+- 🎓 Studying Computer Engineering at DEU.
+- 📜 Proud graduate of **Harvard's CS50P** (Introduction to Programming with Python).
+- 🛠️ Currently developing projects utilizing **N-tier architecture**, **Object-Oriented Programming**, and **Custom Data Structures**.
+- 💡 Exploring: Algorithm Analysis, Database Management Systems, UML Modeling,Software Engineering SDLC, and System Design.
+
+### 💻 Tech Stack
+- **Languages:** Java, C, C#, Python
+- **Tools & Environments:** Git, VS Code, Eclipse, Linux (Debian)
+- **Core Concepts:** OOP, Data Structures, Relational Databases (SQL), Computer Architecture
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/pelinbalci)
+- Email: esmapelinbalci@gmail.com
